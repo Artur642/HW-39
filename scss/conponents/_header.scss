@@ -1,0 +1,29 @@
+.header__wraper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.header__list {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 175%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.header__list:hover {
+  color: #fa4a0c;
+}
+
+.conteiner {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
